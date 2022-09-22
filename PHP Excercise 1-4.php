@@ -1,6 +1,8 @@
 
 <?php
 //PHP exercise 1
+
+echo "PHP exercise 1 \n";
   $variable1 = "Twinkle";
   $variable2 = "star.";
   
@@ -16,6 +18,7 @@
 
 
 //PHP exercise 2
+echo "PHP exercise 2 \n";
   $x = 10;
   $y = 7;
   
@@ -32,7 +35,7 @@
   echo "$x % $y = $mod \n\n\n";
 
 //PHP exercise 3
-
+echo "PHP exercise 3 \n";
 $variable = 8;
 
 /*
@@ -61,7 +64,7 @@ Decrement value by one. Value is now $variable.
   echo "Decrement value by one. Value is now $variable.";
   
 //PHP exercise 4
-
+echo "PHP exercise 4 \n";
  $Name = 'Harry'; 
  $Age = 28;   
   
