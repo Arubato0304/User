@@ -1,5 +1,3 @@
-uwwa puro urtang 
-
 
 <?php
 //PHP exercise 1
@@ -64,7 +62,21 @@ Decrement value by one. Value is now $variable.
   
 //PHP exercise 4
 
+ $Name = 'Harry'; 
+ $Age = 28;   
+  
+ var_dump($Name); 
+ echo "\r\n";   
+ 
+ print_r($Name); 
+ echo "\r\n";   
+ 
+ var_dump($Age); 
+ echo "\r\n";  
+ 
+ $Name=Null; 
+ 
+ var_dump($Name); 
   
 
 ?>
-
