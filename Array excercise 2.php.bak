@@ -16,7 +16,7 @@
 						if($x == -1){
 							echo "              ";
 						}else if ($x <= 8){
-							echo $City[$x].',  ';
+							echo $City[$x].', ';
 						}else {echo $City[$x];}
 					}
 					echo ". ";
